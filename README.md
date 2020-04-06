@@ -1,4 +1,4 @@
-# Binary-First-Search
+# Breadth-First-Search
 Breadth-first search (BFS) is an algorithm for traversing or searching tree or graph data structures.
 
 Given a matrix of N*M order. Find the shortest distance from a source cell to a destination cell, traversing through limited cells only. Also you can move only up, down, left and right. If found output the distance else -1.
